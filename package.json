@@ -1,0 +1,19 @@
+{
+  "name": "SnowGraph",
+  "version": "0.0.0",
+  "description": "Scrapes & logs results to Parse.com",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrismatheson/BanskoSnowGraph.git"
+  },
+  "author": "Chris Matheson",
+  "license": "BSD",
+  "dependencies": {
+    "parse-api": "~0.3.0",
+    "scraper": "0.0.9"
+  }
+}

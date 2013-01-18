@@ -1,0 +1,16 @@
+---
+applications:
+  .:
+    name: SnowReporter
+    framework:
+      name: standalone
+      info:
+        mem: 64M
+        description: Standalone Application
+        exec: 
+    runtime: node08
+    command: node App.js
+    infra: eu-aws
+    url: 
+    mem: 64M
+    instances: 1
