@@ -26,5 +26,5 @@ setInterval(function(){
       db.insert('res', result, parseResponse);
     }
   }); 
-}, 60000);
+}, 3600000);
 
